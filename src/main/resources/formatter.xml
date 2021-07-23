@@ -26,5 +26,6 @@
         <setting id="org.eclipse.jdt.core.formatter.join_wrapped_lines" value="false"/>
         <setting id="org.eclipse.jdt.core.formatter.alignment_for_assignment" value="16"/>
         <setting id="org.eclipse.jdt.core.formatter.alignment_for_field_declaration" value="16"/>
+        <setting id="org.eclipse.jdt.core.formatter.use_on_off_tags" value="true"/>
     </profile>
 </profiles>
